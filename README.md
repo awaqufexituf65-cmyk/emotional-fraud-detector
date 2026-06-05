@@ -1,4 +1,4 @@
-# 情感反诈分析 (Emotional Fraud Detector)
+# 情感反诈分析 (Emotional Fraud Detector).skill
 
 一个为 Claude Code 打造的情感诈骗分析技能.
 
