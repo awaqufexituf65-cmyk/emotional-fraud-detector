@@ -1,7 +1,7 @@
 {
   "name": "emotional-fraud-detector",
-  "version": "1.0.0",
-  "description": "情感反诈分析 — 分析聊天记录识别情感诈骗(杀猪盘/网恋诈骗)，提供心理支持和应对指导",
+  "version": "2.0.0",
+  "description": "v2.0: 集成 WeFlow 微信聊天记录导出 + 逐条对话7维深度分析。识别杀猪盘/网恋诈骗，提供心理支持和应对指导",
   "author": {
     "name": "EnV"
   },
