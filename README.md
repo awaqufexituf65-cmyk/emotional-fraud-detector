@@ -1,6 +1,6 @@
 # 情感反诈分析 (Emotional Fraud Detector)
 
-一个为 Claude Code 打造的情感诈骗分析技能，帮助识别杀猪盘、网恋诈骗，提供心理支持和安全指导。
+一个为 Claude Code 打造的情感诈骗分析技能.
 
 ![Architecture](assets/architecture.svg)
 
