@@ -2,6 +2,8 @@
 
 一个为 Claude Code 打造的情感诈骗分析技能，帮助识别杀猪盘、网恋诈骗，提供心理支持和安全指导。
 
+![Architecture](assets/architecture.svg)
+
 ---
 
 ## 这是什么？
@@ -19,24 +21,26 @@
 
 ## 安装
 
-### 方式 1: Claude Code 插件
+### 一键安装（推荐）
 
 ```bash
-claude plugins install awaqufexituf65-cmyk/emotional-fraud-detector
+npx skills add awaqufexituf65-cmyk/emotional-fraud-detector
 ```
 
-### 方式 2: 手动安装
+### 手动安装
+
+#### Claude Code
 
 ```bash
-# 克隆到 Claude Code skills 目录
 git clone https://github.com/awaqufexituf65-cmyk/emotional-fraud-detector.git \
   ~/.claude/skills/emotional-fraud-detector
 ```
 
-### 方式 3: 直接复制
+#### Codex CLI
 
 ```bash
-# 下载并解压到 ~/.claude/skills/emotional-fraud-detector/
+git clone https://github.com/awaqufexituf65-cmyk/emotional-fraud-detector.git \
+  ~/.agents/skills/emotional-fraud-detector
 ```
 
 ---
@@ -137,7 +141,7 @@ MIT License
 
 ## 作者
 
-EnV
+**EnV** — awaqufexituf65@gmail.com
 
 ---
 
