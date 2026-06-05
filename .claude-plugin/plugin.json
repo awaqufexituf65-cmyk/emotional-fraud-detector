@@ -1,0 +1,24 @@
+{
+  "name": "emotional-fraud-detector",
+  "version": "1.0.0",
+  "description": "情感反诈分析 — 分析聊天记录识别情感诈骗(杀猪盘/网恋诈骗)，提供心理支持和应对指导",
+  "author": {
+    "name": "EnV"
+  },
+  "homepage": "https://github.com/awaqufexituf65-cmyk/emotional-fraud-detector",
+  "repository": "https://github.com/awaqufexituf65-cmyk/emotional-fraud-detector",
+  "license": "MIT",
+  "keywords": [
+    "fraud-detection",
+    "romance-scam",
+    "pig-butchering",
+    "emotional-fraud",
+    "psychology",
+    "safety",
+    "chinese",
+    "杀猪盘",
+    "反诈",
+    "情感分析",
+    "网恋诈骗"
+  ]
+}
